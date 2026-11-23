@@ -22,5 +22,17 @@
         "95:7F:EF:53:CB:0C:98:C6:28:65:50:88:E1:86:6D:16:A9:72:C1:E5:D6:26:33:F4:D0:CF:94:AC:9D:03:93:DE"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ph.ubepos.app",
+      "sha256_cert_fingerprints": [
+        "24:7F:C3:93:BD:C3:80:BF:00:25:E3:6A:30:BA:8E:4C:46:16:1B:84:E1:ED:05:A0:71:E7:3B:D1:8E:6D:3A:F6"
+      ]
+    }
   }
 ]
